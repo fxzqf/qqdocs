@@ -10,6 +10,11 @@
       "taskLabel": "任务-qqdocs",
       "appliesTo": "/",
       "type": "launch"
+    },
+    {
+      "taskLabel": "任务-index",
+      "appliesTo": "index.html",
+      "type": "launch"
     }
   ]
 }
